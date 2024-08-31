@@ -1,15 +1,9 @@
-# breast-cancer-detection
-
-Original dataset
-https://www.kaggle.com/aryashah2k/breast-ultrasound-images-dataset
-
-Modified dataset
-https://drive.google.com/file/d/1xjp_6O8C-Z5sAAFn3UeR03tlSYUlRkdc/view
-
-
-How to Open App
-1.Copy code to local repository - git clone https://github.com/samadon1/breast-cancer-detection.git
-2.Open project with an IDE or any text editor to view code
-3.Change directory to project in shell - cd breast-cancer-detection
-4.Activate the virtual environment - (on Mac) - source venv/bin/activate
-4.Open the app - streamlit run app.py
+## This project was made by me as the part of my NTCC project.
+# Steps to run this project:-
+:- Open Anaconda Navigatior.
+:- Go to the environment tab and change the environment to Test_20240828.
+:- Click on the play button when it becomes green and then click on "Open Terminal"
+:- Then open the file named "Breast Cancer Identification" and open the folder within and copy the path.
+:- Then come back to the terminal and type "cd /paste the path that you copied/" and press enter
+:- Then type in the next line "streamlit run app.py"
+:- It will open in the browser and then upload the pics that you need to get checked.
